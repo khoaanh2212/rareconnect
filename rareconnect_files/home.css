@@ -472,14 +472,14 @@ nav.add-nav .nav-header li a {
     height: 19px;
     display: block;
     margin: 7px 0 0 20px;
-    background: url(../images/home/sprite.png) -29px -181px no-repeat; }
+    background: url(sprite.png) -29px -181px no-repeat; }
     @media only screen and (max-width: 767px) {
       .header-search .opener {
         margin: 0; } }
     .header-search .opener:hover {
       opacity: .8; }
   .header-search.active .opener {
-    background: url(../images/home/sprite.png) 0 -181px no-repeat; }
+    background: url(sprite.png) 0 -181px no-repeat; }
   .header-search .slide {
     position: absolute;
     top: 100%;
@@ -574,7 +574,7 @@ nav.add-nav .nav-header li a {
         right: 20px;
         width: 12px;
         height: 7px;
-        background: url(../images/home/sprite.png) -104px 0 no-repeat; }
+        background: url(sprite.png) -104px 0 no-repeat; }
         @media only screen and (max-width: 767px) {
           .add-nav > ul > li > a:after {
             right: 6px;
@@ -607,7 +607,7 @@ nav.add-nav .nav-header li a {
         .add-nav > ul > li.style-01 > a:after {
           top: 12px;
           right: 40px;
-          background: url(../images/home/sprite.png) -52px 0 no-repeat; }
+          background: url(sprite.png) -52px 0 no-repeat; }
           @media only screen and (max-width: 767px) {
             .add-nav > ul > li.style-01 > a:after {
               right: 6px;
@@ -1144,7 +1144,7 @@ nav.add-nav .nav-header li a {
       position: absolute;
       top: 50%;
       left: 50%;
-      background: url(../images/home/sprite.png) 0 -25px no-repeat;
+      background: url(sprite.png) 0 -25px no-repeat;
       width: 30px;
       height: 30px;
       margin: -15px 0 0 -15px; }
@@ -1153,7 +1153,7 @@ nav.add-nav .nav-header li a {
       position: absolute;
       top: 50%;
       left: 50%;
-      background: url(../images/home/sprite.png) -40px -25px no-repeat;
+      background: url(sprite.png) -40px -25px no-repeat;
       width: 33px;
       height: 32px;
       margin: -16px 0 0 -16px; }
@@ -1162,7 +1162,7 @@ nav.add-nav .nav-header li a {
       position: absolute;
       top: 50%;
       left: 50%;
-      background: url(../images/home/sprite.png) -82px -26px no-repeat;
+      background: url(sprite.png) -82px -26px no-repeat;
       width: 29px;
       height: 32px;
       margin: -16px 0 0 -15px; }
@@ -1171,7 +1171,7 @@ nav.add-nav .nav-header li a {
       position: absolute;
       top: 50%;
       left: 50%;
-      background: url(../images/home/sprite.png) -122px -26px no-repeat;
+      background: url(sprite.png) -122px -26px no-repeat;
       width: 30px;
       height: 32px;
       margin: -15px 0 0 -14px; }
@@ -1220,7 +1220,7 @@ nav.add-nav .nav-header li a {
     height: 48px;
     overflow: hidden;
     text-indent: -9999px;
-    background: url(../images/home/sprite.png) -61px -68px no-repeat; }
+    background: url(sprite.png) -61px -68px no-repeat; }
     @media only screen and (max-width: 1119px) {
       .tabs-carousel .btn-prev {
         left: 0; } }
@@ -1237,7 +1237,7 @@ nav.add-nav .nav-header li a {
     height: 48px;
     overflow: hidden;
     text-indent: -9999px;
-    background: url(../images/home/sprite.png) -99px -68px no-repeat; }
+    background: url(sprite.png) -99px -68px no-repeat; }
     @media only screen and (max-width: 1119px) {
       .tabs-carousel .btn-next {
         right: 0; } }
@@ -1294,19 +1294,19 @@ nav.add-nav .nav-header li a {
         margin: 0 0 0 -15px;
         opacity: .3; }
     .tabs-carousel .pagination .communities a:before {
-      background: url(../images/home/sprite.png) 0 -210px no-repeat; }
+      background: url(sprite.png) 0 -210px no-repeat; }
     .tabs-carousel .pagination .translation a:before {
-      background: url(../images/home/sprite.png) -40px -210px no-repeat; }
+      background: url(sprite.png) -40px -210px no-repeat; }
     .tabs-carousel .pagination .story-telling a:before {
-      background: url(../images/home/sprite.png) -80px -210px no-repeat; }
+      background: url(sprite.png) -80px -210px no-repeat; }
     .tabs-carousel .pagination .networking a:before {
-      background: url(../images/home/sprite.png) -120px -210px no-repeat; }
+      background: url(sprite.png) -120px -210px no-repeat; }
     .tabs-carousel .pagination .webinars a:before {
-      background: url(../images/home/sprite.png) -160px -210px no-repeat; }
+      background: url(sprite.png) -160px -210px no-repeat; }
     .tabs-carousel .pagination .discussion-groups a:before {
-      background: url(../images/home/sprite.png) -200px -210px no-repeat; }
+      background: url(sprite.png) -200px -210px no-repeat; }
     .tabs-carousel .pagination .polls a:before {
-      background: url(../images/home/sprite.png) -240px -210px no-repeat; }
+      background: url(sprite.png) -240px -210px no-repeat; }
     .tabs-carousel .pagination .active a {
       color: #e31a52; }
       .tabs-carousel .pagination .active a:before {
@@ -1445,7 +1445,7 @@ nav.add-nav .nav-header li a {
     top: 4px;
     width: 51px;
     height: 72px;
-    background: url(../images/home/sprite.png) 0 -68px no-repeat; }
+    background: url(sprite.png) 0 -68px no-repeat; }
   .info p {
     margin: 0 0 30px; }
     @media only screen and (max-width: 767px) {
@@ -1673,7 +1673,7 @@ section.community {
     margin-top: -24px;
     overflow: hidden;
     text-indent: -9999px;
-    background: url(../images/home/sprite.png) -61px -68px no-repeat; }
+    background: url(sprite.png) -61px -68px no-repeat; }
     @media only screen and (max-width: 1309px) {
       .logos-gallery .btn-prev {
         left: 0; } }
@@ -1688,7 +1688,7 @@ section.community {
     margin-top: -24px;
     overflow: hidden;
     text-indent: -9999px;
-    background: url(../images/home/sprite.png) -99px -68px no-repeat; }
+    background: url(sprite.png) -99px -68px no-repeat; }
     @media only screen and (max-width: 1309px) {
       .logos-gallery .btn-next {
         right: 0; } }
@@ -1801,7 +1801,7 @@ section.community {
       position: absolute;
       top: 6px;
       left: 1px;
-      background: url(../images/home/sprite.png) -74px 0 no-repeat; }
+      background: url(sprite.png) -74px 0 no-repeat; }
 
 .socials-panel {
   background: #005374; }
@@ -1836,28 +1836,28 @@ section.community {
     .socials-list .twitter a:before {
       width: 19px;
       height: 20px;
-      background: url(../images/home/sprite.png) 0 -150px no-repeat;
+      background: url(sprite.png) 0 -150px no-repeat;
       margin: -10px 0 0 -10px; }
   .socials-list .facebook a {
     background: #3c599b; }
     .socials-list .facebook a:before {
       width: 11px;
       height: 20px;
-      background: url(../images/home/sprite.png) -29px -150px no-repeat;
+      background: url(sprite.png) -29px -150px no-repeat;
       margin: -10px 0 0 -5px; }
   .socials-list .share a {
     background: #67bc45; }
     .socials-list .share a:before {
       width: 20px;
       height: 21px;
-      background: url(../images/home/sprite.png) -50px -150px no-repeat;
+      background: url(sprite.png) -50px -150px no-repeat;
       margin: -10px 0 0 -10px; }
   .socials-list .instagram a {
     background: #68727b; }
     .socials-list .instagram a:before {
       width: 21px;
       height: 19px;
-      background: url(../images/home/sprite.png) -80px -150px no-repeat;
+      background: url(sprite.png) -80px -150px no-repeat;
       margin: -9px 0 0 -11px; }
 
 .footer-holder {
